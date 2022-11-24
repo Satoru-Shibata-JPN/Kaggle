@@ -1,4 +1,4 @@
-# 19 Data Science Publications
+# 19 Data Science Practice Reports
 ## Executive Summary
 ### About the Author
 - Name: Satoru Shibata / 柴田 怜
