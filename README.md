@@ -1,6 +1,6 @@
-# 19 Data Science Practice Reports
-## Executive Summary
-### About the Author
+# 19 Practices
+## Summary
+#### About the Author
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
   - Title: [Kaggle Triple Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Triple_Expert_Evidence.pdf)
