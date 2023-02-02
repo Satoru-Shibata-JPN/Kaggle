@@ -3,7 +3,7 @@
 ### About the Author
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
-  - Title: [Top 0.2%, 0.3% & 1.0% Kaggle Triple Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Triple_Expert_Evidence.pdf)
+  - Title: [Kaggle Triple Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Triple_Expert_Evidence.pdf)
     - Programming: Python/R
     - Current Status: Retirement from Kaggle to focus on job of mine
 
