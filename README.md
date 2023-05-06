@@ -1,4 +1,4 @@
-## 19 Data Science Practices
+## 19 Practices
 ### Summary
 #### About the Author
 - Name: Satoru Shibata / 柴田 怜
