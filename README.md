@@ -1,11 +1,9 @@
-## 19 Practices
-### Summary
-#### About the Author
+## 19 predictive modeling discussions with Python
+### About the Author
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
-  - Title: [Kaggle Triple Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Triple_Expert_Evidence.pdf)
-    - Programming languages: Python, R, and SQL
-    - Current Status: Retirement from Kaggle to focus on job of mine as a Data Scientist.
+- Title: [Kaggle Triple Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Triple_Expert_Evidence.pdf)
+  - Current Status: Retirement from Kaggle to focus on job of mine as a Data Scientist.
 
 ### Score Table
 | Departments      | Top Levels| Highest Rank | Awarded Medals     | 
