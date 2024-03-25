@@ -1,4 +1,4 @@
-## 19 predictive modeling discussions with Python
+## Awarded 16 analytical reports with Python at 16GB Kernel of Kaggle.
 ### About the Author
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
@@ -13,7 +13,7 @@
 | **Datasets**     | 1%        | 354/34,643   | 3 Bronze           |
 | **Competitions** | 20-30%
 
-### Abstract 16 Awarded Analytical Reports posted on Kaggle 16GB Kernel Python
+### Abstracts
 #### 3 Silver Medals
 1. [Optimized LightGBM with Optuna adding SAKT Model](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
     - Lead sentences
@@ -27,11 +27,11 @@
     - Purpose
       - Optimize Binary Classification for AUC.
     - Methodology:
-      - Ensemble Learning of LightGBM and SAKT
-      - Hyperparameter Optimization with Optuna
+      - Ensemble Learning of LightGBM and SAKT.
+      - Hyperparameter Optimization with Optuna.
     - Results
-      - Score: AUC = 0.781
-      - Code: 31 Points
+      - Score: AUC = 0.781.
+      - Code: 31 Points.
     - Considerations
       - Obsessed with Models, Feature Engineering Remains a Challenge.
       - Systematizing Multiple Models will also be a challenge in the future.
@@ -42,45 +42,45 @@
       - Optimized Classification of Anonymized Raw Data from Stock Market on 16GB Kernel.
       - Contributed code that systematizes Ensemble Learning and Logistic Regression.
     - Issue
-      - Utility Function Optimization of Supply and Demand Forecasting in Securities Markets
+      - Utility Function Optimization of Supply and Demand Forecasting in Securities Markets.
     - Significance
       - Calculate based on indicators of absence or degree of stock returns.
       - Optimize the behavior of whether to trade or not.
     - Purpose
-      - AI Dev for Profit Maximization
+      - AI Dev for Profit Maximization.
     - Methodology
-      - Optimal classification of LightGBM
-      - Logit Transformation of Purpose Variables Based on Probability Distributions
+      - Optimal classification of LightGBM.
+      - Logit Transformation of Purpose Variables Based on Probability Distributions.
     - Results
-      - Score: 3741.118 (Outside of Medal Zone)
-      - Code: 33 Points
+      - Score: 3741.118 (Outside of Medal Zone).
+      - Code: 33 Points.
     - Considerations
       - Utility function was not fully deciphered
-      - Which left some issues for the paper survey.
-      - I think that the reporting was appreciated by other Kaggler.
+      - Which left some issues for paper surveys.
+      - The report was appreciated by other Kagglers.
     - Conclusion
       - Code Silver Medal
 3. [Optimize LightGBM HyperParameter with Optuna and GPU](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Silver_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
     - Lead sentences
-      - Unprecedented LightGBM Hyperparameter Optimization on GPU!
+      - Unprecedented LightGBM Hyperparameter Optimization on GPU.
       - Procedure was annexed and highly evaluated.
     - Issues
-      - Preliminaries of “LightGBM Classifier and Logistic Regression Report“ 
+      - Preliminaries of “LightGBM Classifier and Logistic Regression Report“ .
     - Significance
-      - High Parameter Optimization
+      - High Parameter Optimization.
       - There were few precedents for LightGBM.
     - Purpose
-      - Code submission for optimizing LightGBM Hyperparameter on GPU
+      - Code submission for optimizing LightGBM Hyperparameter on GPU.
     - Methodology
-      - A survey of prior case studies using Optuna for LightGBM
-      - Procedure Submission
+      - A survey of prior case studies using Optuna for LightGBM.
+      - Procedure of ssubmissions.
     - Results
       - Run: 953.9s on GPU
-      - Code: 31 Points
+      - Code: 31 Points.
     - Consideration
-      - It can be used for Hyperparameter Optimization in the future.
+      - Available hyperparameter optimization of futures.
     - Conclusion
-      - Code Silver Medal
+      - Code Silver Medal.
 
 #### 13 Bronze Medals
 1. [Optimized Logit LightGBM Classifier and CNN Models](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
@@ -90,15 +90,15 @@
     - Issue
       - Exploring Optimization Models
     - Significance
-      - Simulation iterations of the Optimization Model
+      - Simulation iterations of Optimization Model.
     - Purpose
       - Optimize Utility Function by systematizing Multiple Models.
     - Methodology
-      - Applying the Logit Transform to LightGBM
-      - Explore combining with CNN
+      - Applying the Logit Transform to LightGBM.
+      - Explore combining with CNN.
     - Results
-      - Score: 3344.738 (Outside of Medal Zone)
-      - Code: 15 Points
+      - Score: 3344.738 (Outside of Medal Zone).
+      - Code: 15 Points.
     - Considerations
       - This code does LightGBM and CNN at the same time, which was prone to overflow.
       - From now on, I will focus on one Model Optimization.
@@ -116,10 +116,10 @@
     - Purpose
       - Baseline Model Dev
     - Methodology
-      - Binary Classification by LightGBM Optimization
+      - Binary Classification by LightGBM Optimization.
     - Results
-      - Score: AUC = 0.774
-      - Code: 12 Points
+      - Score: AUC = 0.774.
+      - Code: 12 Points.
     - Considerations
       - Policy of additional development to Baseline Model.
       - The improvement of AUC by the additional development was only 0.07, which left some issues.
@@ -127,7 +127,7 @@
       - Code Bronze Medal
 1. [LightGBM on GPU with Feature Engineering, Optuna, and Visualization](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
     - Lead sentence
-      - I won a Code Bronze Medal for my first attempt at submitting code!
+      - Code Bronze Medal for first attempt at submitting code.
     - Issue
       - This was my first real effort at Kaggle.
     - Significance
@@ -138,11 +138,11 @@
     - Methodology
       - I read and referred to posted code by Kaggle Grandmaster.
     - Results
-      - Code: 11 Points
+      - Code: 11 Points.
     - Consideration
       - I could gain experiences in implementing LightGBM with Optuna on GPU.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [LightGBM with the Inference and Empirical Analysis](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
     - Lead sentences
       - In the first scored submission code, AUC = 0.76.
@@ -158,69 +158,69 @@
       - Empirical Analysis between raw data and predicted results.
       - Detected significant differences in Gaussian Distribution.
     - Results
-      - Score: AUC = 0.76
-      - Code: 12 Points
+      - Score: AUC = 0.76.
+      - Code: 12 Points.
     - Consideration
       - This submitted code left insufficient understanding of inference as an issue.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Submission and the Inference of LightGBM](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Submission_and_the_Inference_of_LightGBM.ipynb)
     - Lead sentences
       - My first scoring submission code prototype
-      - Few examples of Empirical Analysis, I won Code Bronze Medal!
+      - Few examples of Empirical Analysis, I won Code Bronze Medal.
     - Issue
-      - Prototype version of submission code for first scoring
+      - Prototype version of submission code for first scoring.
     - Significance
-      - Implementing the scoring submission code
+      - Implementing the scoring submission code.
     - Purpose
       - Gaining development experiences.
     - Methodology
       - Model objects were coded for scoring.
       - Empirical Analysis detected a significant difference in Gaussian Distribution.
     - Result
-      - Code: 7 Points
+      - Code: 7 Points.
     - Considerations
       - Actual scoring submission code became a separate file.
       - This was an opportunity for me to feel the challenge of coding.
-      - I focused on it afterwards.
+      - Focused on its afterwards.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Market Prediction XGBoost with GPU Modified](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
     - Lead sentences
       - Performance comparison with LightGBM by XGBoost Optimization.
-      - LightGBM takes the cake!
+      - LightGBM takes the cake.
     - Issue
       - I seen good results with XGBoost sometimes.
     - Significance
       - Simulate on Models other than LightGBM and search for Optimized Model.
     - Purpose
-      - Score improvement by XGBoost
+      - Score improvement by XGBoost.
     - Methodology
-      - GPU Implementation into XGBoost Optimization
+      - GPU Implementation into XGBoost Optimization.
     - Results
-      - Score: 3308.824 (Outside of Medal Zone)
-      - Code: 8 Points
+      - Score: 3308.824 (Outside of Medal Zone).
+      - Code: 8 Points.
     - Considerations
       - XGBoost is easy to implement due to its many precedents.
       - LightGBM is superior in performance comparison, which led me to focus on LightGBM.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Cassava Leaf Disease Best Keras CNN Tuning](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
      - Lead sentences
-        - I also participated in a competition on image analysis, challenging myself with raw data of various properties!
+        - I also participated in a competition on image analysis, challenging myself with raw data of various properties.
         - I was left with some issues on the theoretical side, which gave me an opportunity to work from theoretical books.
      - Issue
         - I would like to try my hand at image analysis and find out what I am good at.
      - Significance
         - I want to gain experience in Keras implementation.
-        - Deepen my understanding CNN
+        - Deepen my understanding CNN.
      - Purpose
         - I learn to understand and implement acoustic analysis and image analysis.
      - Methodology
         - I complemented the advanced submission code.
      - Results
-        - Score: Accuracy = 0.885
-        - Code: 18 Points
+        - Score: Accuracy = 0.885.
+        - Code: 18 Points.
      - Considerations
         - Theoretical aspects of acoustic analysis and image analysis remained a challenge.
         - An opportunity to raise awareness to need to start with a survey of theoretical papers.
@@ -228,46 +228,46 @@
         - Code Bronze Medal
 1. [RFCX Residual Network with TPU Customized](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_RFCX_Residual_Network_with_TPU_Customized.ipynb)
     - Lead sentences
-      - I also participated in a competition for acoustic analysis, and tried my hand at raw data of various properties!
+      - I also participated in a competition for acoustic analysis, and tried my hand at raw data of various properties.
       - I was left with some issues on the theoretical side, which gave me an opportunity to work from theoretical books.
     - Issue
       - I would like to try my hand at acoustic analysis and find out what I am good at.
     - Significance
       - I want to gain experience in Keras implementation.
-      - Deepen my understanding CNN
+      - Deepen my understanding CNN.
     - Purpose
       - I learn to understand and implement acoustic analysis and image analysis.
     - Methodology
       - I complemented the advanced submission code.
     - Results
-      - Score: 0.772
-      - Code: 12 Points
+      - Score: 0.772.
+      - Code: 12 Points.
     - Considerations
       - Theoretical aspects of acoustic analysis and image analysis remained a challenge.
       - An opportunity to raise awareness to need to start with a survey of theoretical papers.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Research with Customized Sharp Weighted](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Research_with_Customized_Sharp_Weighted.ipynb)
     - Lead sentences
       - Work on Custom Metrics Clarification and systematization of Hyperparameters Optimization in LightGBM.
-      - An each milestone optimization object generation is still important!
+      - An each milestone optimization object generation is still important.
     - Issue
       - Private Custom Metrics were used as an Evaluation Function.
     - Significance
       - Improve prediction accuracy by elucidating Private Custom Metrics.
       - Reproducibility will be determined based on the Evaluation Function.
     - Purpose
-      - Custom Metrics Clarification
+      - Custom Metrics Clarification.
     - Methodology
-      - LightGMB High Parameter Optimization
-      - Systematization with Custom Metrics Decoding Examples
+      - LightGMB High Parameter Optimization.
+      - Systematization with Custom Metrics Decoding Examples.
     - Results
-      - Generate each Parameter Optimization Object
-      - Code: 6 Points
+      - Generate each Parameter Optimization Object.
+      - Code: 6 Points.
     - Consideration
       - Importance of each milestone optimization object generation was reaffirmed.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Optimize CatBoost HyperParameter with Optuna and GPU](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_CatBoost_HyperParameter_with_Optuna_and_GPU.ipynb)
     - Lead sentences
       - Performance comparison was performed on optimized Ensemble Learning.
@@ -275,37 +275,37 @@
     - Issue
       - I was new to CatBoost and wanted to compare performance with LightGBM.
     - Significance
-      - Performance comparison of Ensemble Learning: LightGBM, XGBoost, CatBoost
+      - Performance comparison of Ensemble Learning: LightGBM, XGBoost, CatBoost, etc.
     - Purpose
-      - Algorithm selection for Prediction Models
+      - Algorithm selection for Prediction Models.
     - Methodology
-      - Hyper-parameter optimization
-      - CatBoost implementation
+      - Hyper-parameter optimization.
+      - CatBoost implementation.
     - Results
-      - Score: AUC = 0.500
-      - Code: 17 Points
+      - Score: AUC = 0.500.
+      - Code: 17 Points.
     - Consideration
       - At the baseline model stage, I gave the edge to LightGBM.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [LightGBM on Lyft Tabular Data added Inference and Tuning](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
     - Lead sentences
-      - Regression Prediction of LightGBM with Grid Search and Multiple Evaluation Functions
-      - A harvest that uncovered all sorts of challenges!
+      - Regression Prediction of LightGBM with Grid Search and Multiple Evaluation Functions.
+      - A harvest that uncovered all sorts of challenges!.
     - Issue
-      - Regression Problem for Table Data Related to Automated Driving
+      - Regression Problem for Table Data Related to Automated Driving.
     - Significance
       - I want to work on Regression Prediction with LightGBM.
       - Gain further development experiences.
       - Implement multiple evaluation functions to improve accuracy.
     - Purpose
-      - Improving accuracy of Regression Prediction
+      - Improving accuracy of Regression Prediction.
     - Methodology
-      - Set evaluation functions of LightGBM in MSE and RMSE
-      - Parameter search by grid search
+      - Set evaluation functions of LightGBM in MSE and RMSE.
+      - Parameter search by grid search.
     - Results
-      - Score: 356.084
-      - Code: 10 Points
+      - Score: 356.084.
+      - Code: 10 Points.
     - Considerations
       - Grid search shown that hyperparameter optimization is inefficient.
       - I reaffirmed the need to use feature engineering and inference.
@@ -313,29 +313,29 @@
       - Code Bronze Medal
 1. [COVID-19 with H2OAutoML Baseline Model](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_COVID-19_with_H2OAutoML_Baseline.ipynb)
     - Lead sentences
-      - Experimented with AutoML performance, but found the original to be more powerful!
+      - Experimented with AutoML performance, but found the original to be more powerful.
       - This led to the original development of the LightGBM optimization.
     - Issue
       - COVID-19 infection explosion and new global challenges.
     - Significance
-      - Improvement of coding techniques for anonymized Table data
-      - Accumulate experiences using AutoML
+      - Improvement of coding techniques for anonymized Table data.
+      - Accumulate experiences using AutoML.
     - Purpose
-      - Optimization Regression Prediction with AutoML
+      - Optimization Regression Prediction with AutoML.
     - Methodology
       - Set RMSLE as evaluation function for Regression Prediction with H2O.
-      - Extract the optimized Regression Prediction Models: Deep Learning, XGBoost, GLM, GBM
+      - Extract the optimized Regression Prediction Models: Deep Learning, XGBoost, GLM, GBM, etc.
     - Results
-      - Score: RMSLE = 0.086
-      - Code: 6 Points
+      - Score: RMSLE = 0.086.
+      - Code: 6 Points.
     - Considerations
       - Original development was more powerful than H2OAutoML.
       - Opportunity to work on Optimized Regression Prediction with LightGBM.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
 1. [Optimized Predictive Model with H2OAutoML](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Predictive_Model_with_H2OAutoML.ipynb)
     - Lead sentences
-      - Even in Binary Classification, AutoML was found to be inferior to proprietary!
+      - Even in Binary Classification, AutoML was found to be inferior to proprietary.
       - It is thought that the difference was due to Preprocess and Feature Engineering.
     - Issue
       - Regression Prediction by H2OAutoML was inferior to original development.
@@ -345,13 +345,13 @@
       - Experiment on H2OAutoML in Binary Classification.
     - Methodology
       - Set RMSLE as the evaluation function for Binary Classification with H2O.
-      - Extract the Optimized Binary Classification Models: Deep Learning, XGBoost, GLM, GBM
+      - Extract the Optimized Binary Classification Models: Deep Learning, XGBoost, GLM, GBM. ey/tc.
     - Results
-      - Score: AUC = 0.850
-      - Code: 5 Points
+      - Score: AUC = 0.850.
+      - Code: 5 Points.
     - Considerations
       - The performance was higher than that of Regression Prediction Case.
       - Process and Feature Engineering itself is not automated.
       - It has to be developed independently.
     - Conclusion
-      - Code Bronze Medal
+      - Code Bronze Medal.
