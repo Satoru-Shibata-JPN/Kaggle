@@ -2,8 +2,10 @@
 ### About the Author
 - Name: Satoru Shibata / 柴田 怜
 - Job: Data Scientist
-- Title: [3x Kaggle Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Evidence_3x_Kaggle_Expert.pdf)
-  - Current status: retirement from Kaggle to focus on job of mine as a data scientist.
+- Titles
+  - [IBM Certified Data Science Professional (CDSP)](https://www.credly.com/badges/c401bae6-9e5c-4071-8301-871a4283e4b2)
+  - [3x Kaggle Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Evidence_3x_Kaggle_Expert.pdf)
+    - Current status: retirement from Kaggle to focus on job of mine as a data scientist.
 
 ### Score Table
 | Departments      | Top Levels| Highest Rank | Awarded Medals     | 
