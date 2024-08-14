@@ -4,11 +4,10 @@
 - Job: Data Scientist
 - Titles:
   - [3x Kaggle Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Evidence_3x_Kaggle_Expert.pdf)
-    - Current status: retirement from Kaggle to focus on job of mine as a data scientist.
-  - [Certified Data Science Professional (CDSP)](https://www.credly.com/badges/c401bae6-9e5c-4071-8301-871a4283e4b2)
-    - Obtained from IBM at 2023. 
-  - [Certified Marketing Analytics Professional (CMAP)](https://www.credly.com/badges/91f1e7d7-33d0-4893-a55e-2270c40e5055)
-    - Obtained from SAS at 2024. 
+    - Retired from Kaggle at 2021 to focus on business as a data scientist.
+  - [2x Certified Professional](https://www.coursera.org/user/3df13832d0fc4d5a1f5d652a5fec09cb)
+    - [IBM Data Science Professional Certificate](https://www.credly.com/badges/c401bae6-9e5c-4071-8301-871a4283e4b2) at 2022.
+    - [SAS Statistical Business Analyst Professional Certificate](https://www.credly.com/badges/91f1e7d7-33d0-4893-a55e-2270c40e5055) at 2024.
 
 ### Score Table
 | Departments      | Top Levels| Highest Rank | Awarded Medals     | 
