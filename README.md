@@ -1,7 +1,7 @@
 ## Awarded 16 analytical reports with Python at 16GB Kernel of Kaggle.
 ### About the Author
 - Name: Satoru Shibata / 柴田 怜
-- Job: Freelance Data Scientist
+- Job: Sr. Data Scientist
 - Titles:
   - [3x Kaggle Expert](https://github.com/Satoru-Shibata-JPN/Kaggle/blob/main/Evidence_3x_Kaggle_Expert.pdf)
     - Retired from Kaggle at 2021 to focus on business as a data scientist.
